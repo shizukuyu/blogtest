@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shizukuyu.github.io/blogtest/sitemap.xml
