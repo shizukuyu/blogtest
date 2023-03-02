@@ -44,11 +44,11 @@ languages:
             imageHeight: 150
             buttons:
                 - name: About
-                  url: /about/
+                  url: about
                 - name: Project
-                  url: /projects/
+                  url: projects
                 - name: Resume
-                  url: /resume/
+                  url: resume
 
         menu:
             main:
@@ -62,15 +62,15 @@ languages:
                   weight: 2
                 - identifier: Resume
                   name: Resume
-                  url: /resume/
+                  url: resume
                   weight: 3
                 - identifier: Blog
                   name: Blogs
-                  url: /blog/
+                  url: blog
                   weight: 4
                 - identifier: Search
                   name: Search
-                  url: /search/
+                  url: search
                   weight: 5
 
     zh:
