@@ -1,6 +1,6 @@
 ---
 title: "aboutme"
-date: datetime
+date: 2022-02-22
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
